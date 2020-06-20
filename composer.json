@@ -1,13 +1,19 @@
 {
     "name": "rifqisah/twittertwo",
     "description": "Twitter OAuth1 Provider for Laravel Socialite",
-    "type": "library",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "M. Rifqi Saiful A. H.",
-            "email": "rifqi_sah@yahoo.com"
+    "version": "1.0.0",
+    "authors": [{
+        "name": "RifqiSah",
+        "email": "rifqi_sah@yahoo.com"
+    }],
+    "require": {
+        "php": "^5.6 || ^7.0",
+        "socialiteproviders/manager": "~2.0 || ~3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "rifqisah\\twittertwo\\": ""
         }
-    ],
-    "minimum-stability": "dev"
+    }
 }
