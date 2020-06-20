@@ -1,6 +1,6 @@
 <?php
 
-namespace RifqiSah\TwitterTwo;
+namespace rifqisah\twittertwo;
 
 use League\OAuth1\Client\Credentials\TemporaryCredentials;
 use League\OAuth1\Client\Credentials\TokenCredentials;

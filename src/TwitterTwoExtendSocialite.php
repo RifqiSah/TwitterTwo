@@ -1,6 +1,6 @@
 <?php
 
-namespace RifqiSah\TwitterTwo;
+namespace rifqiSah\twitterTwo;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace RifqiSah\TwitterTwo;
+namespace rifqisah\twittertwo;
 
 use SocialiteProviders\Manager\OAuth1\AbstractProvider;
 use SocialiteProviders\Manager\OAuth1\User;
