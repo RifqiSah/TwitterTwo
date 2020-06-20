@@ -10,7 +10,7 @@
             "email": "rifqi_sah@yahoo.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {"rifqisah\\twittertwo\\": "src/"}
     },
