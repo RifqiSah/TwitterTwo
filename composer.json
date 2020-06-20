@@ -1,5 +1,6 @@
 {
     "name": "rifqisah/twittertwo",
+    "version": "1.0.0",
     "description": "Twitter OAuth1 Provider for Laravel Socialite",
     "type": "library",
     "license": "MIT",
@@ -9,7 +10,7 @@
             "email": "rifqi_sah@yahoo.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
     "autoload": {
         "psr-4": {"rifqisah\\twittertwo\\": "src/"}
     },
